@@ -1,0 +1,3 @@
+student name: Duha
+student number: 697637
+student class: HAINFVT1D
